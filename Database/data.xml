@@ -1,0 +1,184 @@
+<quizApp>
+    <questions>
+        <question>
+            <id>1</id>
+            <questionText>What is the capital of France?</questionText>
+            <answer id="1">Paris</answer>
+            <answer id="2">London</answer>
+            <answer id="3">Berlin</answer>
+            <answer id="4">Madrid</answer>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <id>2</id>
+            <questionText>What is the capital of Spain?</questionText>
+            <answer id="1">Paris</answer>
+            <answer id="2">London</answer>
+            <answer id="3">Berlin</answer>
+            <answer id="4">Madrid</answer>
+            <correctAnswer>4</correctAnswer>
+        </question>
+        <question>
+            <id>3</id>
+            <questionText>What is the capital of Germany?</questionText>
+            <answer id="1">Paris</answer>
+            <answer id="2">London</answer>
+            <answer id="3">Berlin</answer>
+            <answer id="4">Madrid</answer>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <id>4</id>
+            <questionText>What is the capital of England?</questionText>
+            <answer id="1">Paris</answer>
+            <answer id="2">London</answer>
+            <answer id="3">Berlin</answer>
+            <answer id="4">Madrid</answer>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <id>5</id>
+            <questionText>What is the capital of Italy?</questionText>
+            <answer id="1">Paris</answer>
+            <answer id="2">London</answer>
+            <answer id="3">Rome</answer>
+            <answer id="4">Madrid</answer>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <id>6</id>
+            <questionText>What is the capital of Canada?</questionText>
+            <answer id="1">Ottawa</answer>
+            <answer id="2">Toronto</answer>
+            <answer id="3">Vancouver</answer>
+            <answer id="4">Montreal</answer>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <id>7</id>
+            <questionText>What is the capital of Australia?</questionText>
+            <answer id="1">Sydney</answer>
+            <answer id="2">Melbourne</answer>
+            <answer id="3">Canberra</answer>
+            <answer id="4">Brisbane</answer>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <id>8</id>
+            <questionText>What is the capital of Japan?</questionText>
+            <answer id="1">Tokyo</answer>
+            <answer id="2">Kyoto</answer>
+            <answer id="3">Osaka</answer>
+            <answer id="4">Hiroshima</answer>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <id>9</id>
+            <questionText>What is the capital of Brazil?</questionText>
+            <answer id="1">Rio de Janeiro</answer>
+            <answer id="2">Sao Paulo</answer>
+            <answer id="3">Brasilia</answer>
+            <answer id="4">Salvador</answer>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <id>10</id>
+            <questionText>What is the capital of India?</questionText>
+            <answer id="1">Mumbai</answer>
+            <answer id="2">Delhi</answer>
+            <answer id="3">Kolkata</answer>
+            <answer id="4">Chennai</answer>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <id>11</id>
+            <questionText>What is the capital of China?</questionText>
+            <answer id="1">Shanghai</answer>
+            <answer id="2">Beijing</answer>
+            <answer id="3">Guangzhou</answer>
+            <answer id="4">Shenzhen</answer>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <id>12</id>
+            <questionText>What is the capital of Russia?</questionText>
+            <answer id="1">Moscow</answer>
+            <answer id="2">St. Petersburg</answer>
+            <answer id="3">Novosibirsk</answer>
+            <answer id="4">Yekaterinburg</answer>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <id>13</id>
+            <questionText>What is the capital of South Africa?</questionText>
+            <answer id="1">Johannesburg</answer>
+            <answer id="2">Cape Town</answer>
+            <answer id="3">Pretoria</answer>
+            <answer id="4">Durban</answer>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <id>14</id>
+            <questionText>What is the capital of Egypt?</questionText>
+            <answer id="1">Cairo</answer>
+            <answer id="2">Alexandria</answer>
+            <answer id="3">Giza</answer>
+            <answer id="4">Luxor</answer>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <id>15</id>
+            <questionText>What is the capital of Turkey?</questionText>
+            <answer id="1">Istanbul</answer>
+            <answer id="2">Ankara</answer>
+            <answer id="3">Izmir</answer>
+            <answer id="4">Bursa</answer>
+            <correctAnswer>2</correctAnswer>
+        </question>
+        <question>
+            <id>16</id>
+            <questionText>What is the capital of Argentina?</questionText>
+            <answer id="1">Buenos Aires</answer>
+            <answer id="2">Cordoba</answer>
+            <answer id="3">Rosario</answer>
+            <answer id="4">Mendoza</answer>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <id>17</id>
+            <questionText>What is the capital of Mexico?</questionText>
+            <answer id="1">Puebla</answer>
+            <answer id="2">Guadalajara</answer>
+            <answer id="3">Monterrey</answer>
+            <answer id="4">Mexico City</answer>
+            <correctAnswer>4</correctAnswer>
+        </question>
+        <question>
+            <id>18</id>
+            <questionText>What is the capital of South Korea?</questionText>
+            <answer id="1">Busan</answer>
+            <answer id="3">Incheon</answer>
+            <answer id="3">Seoul</answer>
+            <answer id="4">Daegu</answer>
+            <correctAnswer>3</correctAnswer>
+        </question>
+        <question>
+            <id>19</id>
+            <questionText>What is the capital of Saudi Arabia?</questionText>
+            <answer id="1">Riyadh</answer>
+            <answer id="2">Jeddah</answer>
+            <answer id="3">Mecca</answer>
+            <answer id="4">Medina</answer>
+            <correctAnswer>1</correctAnswer>
+        </question>
+        <question>
+            <id>20</id>
+            <questionText>What is the capital of Nigeria?</questionText>
+            <answer id="1">Lagos</answer>
+            <answer id="2">Kano</answer>
+            <answer id="3">Ibadan</answer>
+            <answer id="4">Abuja</answer>
+            <correctAnswer>4</correctAnswer>
+        </question>
+    </questions>
+</quizApp>
